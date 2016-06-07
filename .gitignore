@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-node_modules
-.DS_Store
 dist
-=======
 # Logs
 logs
 *.log
@@ -36,4 +32,3 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
->>>>>>> 216103d9b5cfca6a8a9ad5696a5baeea703dc812
